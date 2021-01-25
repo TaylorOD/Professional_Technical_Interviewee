@@ -1,6 +1,6 @@
-## Professional Technical Interviewee README:
+## Professional Technical Interviewee:
 
-### Project Name/Intro
+### Podcast / Repo Intro
 
 - This is a repo for the Video and Audio Podcast "Professional Technical Interviewee" hosted by Taylor Dorsett.
 - Episodes released every 1st and 3rd Thursday of the month.

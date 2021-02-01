@@ -1,12 +1,21 @@
 [] - Publish/schedule tweets mentioning any technology or people referenced in the article.
+
 [] - Schedule one tweet per month promoting the post for the next three months.
+
 [] - Pin the Tweet to your Twitter profile (if it’s really great).
+
 [] - Share with your personal/company newsletter.
+
 [] - Share with any relevant Slack channels/groups.
+
 [] - Publish a post on Facebook and Linkedin.
+
 [] - Create a reminder to share on Facebook and Linkedin again in a month.
+
 [] - Share the post as a link on any relevant subreddits.
+
 [] - Republish in part as a post on the most relevant subreddit.
+
 [] - Pitch a variation of the post as a guest post on relevant blogs in exchange for a link back to your original post.
 [] - Share the post on Hacker News if relevant.
 [] - Find and answer any relevant questions on Quora, referencing the post.

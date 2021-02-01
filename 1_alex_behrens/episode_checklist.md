@@ -1,4 +1,4 @@
-[ ] - Publish/schedule tweets mentioning any technology or people referenced in the article.
+- [ ] Publish/schedule tweets mentioning any technology or people referenced in the article.
 
 [] - Schedule one tweet per month promoting the post for the next three months.
 

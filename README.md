@@ -22,7 +22,7 @@
 
 ### Host: Taylor Dorsett
 - Email: dorsetttaylordev@gmail.com
-- Twitter: @yodorsett
+- Twitter: https://twitter.com/yodorsett
 - LinkedIn: https://www.linkedin.com/in/taylordorsett/
 - Github: https://github.com/TaylorOD
 

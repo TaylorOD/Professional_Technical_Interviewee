@@ -3,7 +3,7 @@
 ### My guest today is Alex Behrens, Director of Data Engineering at BuiltIn, and Owner of Maple Leaf Coffee Roasters. 
 
 - Find part two of this episode here: https://youtu.be/5G6A75cOpTk
-- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-1alexbehrens
+- Audio only: https://professionaltechnicalintervieweewithtaylordorsett.podbean.com/e/episode-1alexbehrens/
 
 ### Guest: Alex Behrens
 - LinkedIn: https://www.linkedin.com/in/alexbehrens/

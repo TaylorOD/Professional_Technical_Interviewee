@@ -1,5 +1,5 @@
 ## BEFORE:
-- [ ] Post teaser week before announcing the guest and sending video link
+- [X] Post teaser week before announcing the guest and sending video link
 - [ ] Create reminders to do these posts on calendar
 
 ## DAY OF:

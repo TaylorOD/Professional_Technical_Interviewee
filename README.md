@@ -25,6 +25,7 @@
 - Twitter: https://twitter.com/yodorsett
 - LinkedIn: https://www.linkedin.com/in/taylordorsett/
 - Github: https://github.com/TaylorOD
+- Youtube: https://www.youtube.com/c/taylordorsett
 
 ### Editor: Dustin Bays
 - Email: dustin.bays@baysbrass.com

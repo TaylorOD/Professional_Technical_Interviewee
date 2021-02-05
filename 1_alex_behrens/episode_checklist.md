@@ -1,6 +1,6 @@
 ## BEFORE:
 - [X] Post teaser week before announcing the guest and sending video link
-- [ ] Create reminders to do these posts on calendar
+- [X] Create reminders to do these posts on calendar
 
 ## DAY OF:
 - [X] Publish/schedule tweets/linkedin post with link to Video podcast

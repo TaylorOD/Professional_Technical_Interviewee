@@ -3,9 +3,9 @@
 - [ ] Create reminders to do these posts on calendar
 
 ## DAY OF:
-- [ ] Publish/schedule tweets/linkedin post with link to Video podcast
-- [ ] Publish/schedule tweets/linkedin post with link to Audio podcast
-- [ ] Pin the Tweet to my Twitter profile.
+- [X] Publish/schedule tweets/linkedin post with link to Video podcast
+- [X] Publish/schedule tweets/linkedin post with link to Audio podcast
+- [X] Pin the Tweet to my Twitter profile.
 
 ## WEEK AFTER:
 - [ ] Publish/schedule tweets mentioning any technology or people referenced in the article.
@@ -13,7 +13,6 @@
 - [ ] Publish a post on my Facebook.
 - [ ] Add links to the post from any relevant posts on your personal or company blog.
 - [ ] Create a reminder to republish the post on Medium, Dev.to, Linkedin, or HackerNoon (2+ weeks after initial publication).
-
 
 ## MONTH/s AFTER:
 - [ ] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.

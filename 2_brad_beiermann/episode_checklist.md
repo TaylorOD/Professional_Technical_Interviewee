@@ -13,7 +13,7 @@
 - [ ] Add links to the post from any relevant posts on your personal or company blog.
 
 ## MONTH/s AFTER:
-- [ ] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.
+- [X] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.
 
 ## OPTIONAL:
 - [ ] Share with your personal/company newsletter.

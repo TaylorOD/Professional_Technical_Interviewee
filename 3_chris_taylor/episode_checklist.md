@@ -1,6 +1,6 @@
 ## BEFORE:
-- [ ] Post teaser week before announcing the guest and sending video link
-- [ ] Create reminders to do these posts on calendar
+- [X] Post teaser week before announcing the guest and sending video link
+- [X] Create reminders to do these posts on calendar
 
 ## DAY OF:
 - [ ] Publish/schedule tweets/linkedin post with link to Video podcast
@@ -13,9 +13,9 @@
 - [ ] Add links to the post from any relevant posts on your personal or company blog.
 
 ## MONTH/s AFTER:
-- [ ] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.
+- [X] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.
 
-## OPTIONAL: 
+## OPTIONAL:
 - [ ] Share with your personal/company newsletter.
 - [ ] Share the post as a link on any relevant subreddits.
 - [ ] Share the post on Hacker News if relevant.

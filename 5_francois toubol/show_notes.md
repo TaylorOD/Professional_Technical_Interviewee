@@ -9,15 +9,15 @@
 - LinkedIn: https://www.linkedin.com/in/toubol/
 - Company: https://www.livly.io/
 
-### If you enjoyed the show please subscribe, thumbs up, and share the show.
-### Episodes released on the first and third Thursday of each month.
+If you enjoyed the show please subscribe, thumbs up, and share the show.
+Episodes released on the first and third Thursday of each month.
 
 ### Host: Taylor Dorsett
 - Email: dorsetttaylordev@gmail.com
-- Twitter: https://twitter.com/yodorsett
+- Twitter: @yodorsett
 - LinkedIn: https://www.linkedin.com/in/taylordorsett/
 - Github: https://github.com/TaylorOD
-- Youtube: https://www.youtube.com/c/taylordorsett
+- Youtube: https://www.youtube.com/c/TaylorDorsett
 
 ### Editor: Dustin Bays
 - Email: dustin.bays@baysbrass.com

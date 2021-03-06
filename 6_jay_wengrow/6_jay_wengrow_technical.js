@@ -12,6 +12,7 @@
 // Link to Pascals Triangle explication: https://www.mathsisfun.com/pascals-triangle.html
 
 // Write a function that takes in a number and generates an array of the pascals triangle row related to that number
+
 // Examples:
 // Input: 1
 // Output: [1]
@@ -20,7 +21,27 @@
 // Input: 6
 // Output: [1, 5, 10, 10, 5, 1]
 
-const pascalsTriangle = function (inputNumber) {
+
+// Write your code here: (Solutions below)
+
+// Question:
+
+
+
+
+
+
+
+
+
+
+
+// Bonus: Can you find a more effective recursive solution for this problem?
+// ------------------------
+
+// Solution:
+
+Bonus: const pascalsTriangle = function (inputNumber) {
   let results = []
   for (let i = 0; i < inputNumber; i += 1) {
     let currentRow = []
@@ -39,6 +60,3 @@ const pascalsTriangle = function (inputNumber) {
 console.log(pascalsTriangle(1))
 console.log(pascalsTriangle(2))
 console.log(pascalsTriangle(6))
-
-
-// Can you find a more effective recursive solution for this problem?

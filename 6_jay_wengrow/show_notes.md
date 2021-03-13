@@ -1,4 +1,4 @@
-### Episode #3 - Jay Wengrow - Professional Technical Interviewee with Taylor Dorsett
+### Episode #6 - Jay Wengrow - Professional Technical Interviewee with Taylor Dorsett
 
 ### My guest today is Jay Wengrow, Founder of Actualize Coding Bootcamp and Author of A Common-Sense Guide to Data Structures and Algorithms.
 

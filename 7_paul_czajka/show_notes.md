@@ -1,15 +1,13 @@
-### Episode #6 - Jay Wengrow - Professional Technical Interviewee with Taylor Dorsett
+### Episode #7 - Paul Czajka - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Jay Wengrow, Founder of Actualize Coding Bootcamp and Author of A Common-Sense Guide to Data Structures and Algorithms.
+### My guest today is Paul Czajka, Staff Software Engineer at Classkick, X-Braintree.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
-### Guest: Jay Wengrow
-- LinkedIn: https://www.linkedin.com/in/jaywengrow/
-- Website: https://anyonecanlearntocode.com/
-- Book: https://pragprog.com/titles/jwdsal2/
+### Guest: Paul Czajka
+- LinkedIn: https://www.linkedin.com/in/paul-czajka-pcse/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first and third Thursday of each month.

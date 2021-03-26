@@ -7,8 +7,8 @@
 - You can find the technical questions, as well as my attempts at answering them, in the attached folders.
 - Feel free to attempt your own solutions and create a PR if it is an optimal solution or a solution in another language.
 
-### Technology stack: 
-- I do all my technical interviews in JavaScript. Feel free to attempt the questions in another language. 
+### Technology stack:
+- I do all my technical interviews in JavaScript. Feel free to attempt the questions in another language.
 
 ### Episode List:
 | Guest | Release Date | Technical included? |
@@ -20,8 +20,9 @@
 | Francois Toubol | TBD | Yes |
 | Jay Wengrow | TBD | Yes |
 | Paul Czajka | TBD | Yes |
+| Ben Wilhelm | TBD | Yes |
 
-### If you enjoyed the show please subscribe, thumbs up, and share the show. 
+### If you enjoyed the show please subscribe, thumbs up, and share the show.
 ### Episodes released on the first and third Thursday of each month.
 
 ### Host: Taylor Dorsett

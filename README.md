@@ -17,6 +17,9 @@
 | Brad Beiermann | Feb 18th, 2021 | No |
 | Chris Taylor | March 4th, 2021 | Yes |
 | Karl Hughes | March 18th, 2021 | Yes |
+| Francois Toubol | TBD | Yes |
+| Jay Wengrow | TBD | Yes |
+| Paul Czajka | TBD | Yes |
 
 ### If you enjoyed the show please subscribe, thumbs up, and share the show. 
 ### Episodes released on the first and third Thursday of each month.
@@ -37,4 +40,3 @@
 
 ### Contact
 - dorsetttaylordev@gmail.com
-

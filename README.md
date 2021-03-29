@@ -17,7 +17,7 @@
 | Brad Beiermann | Feb 18th, 2021 | No |
 | Chris Taylor | March 4th, 2021 | Yes |
 | Karl Hughes | March 18th, 2021 | Yes |
-| Francois Toubol | TBD | Yes |
+| Francois Toubol | April 1st, 2021 | Yes |
 | Jay Wengrow | TBD | Yes |
 | Paul Czajka | TBD | Yes |
 | Ben Wilhelm | TBD | Yes |

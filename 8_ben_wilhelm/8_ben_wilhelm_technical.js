@@ -1,3 +1,3 @@
 // Interview Question:
 
-// Example:
+// In as much detail as possible, how would you design monopoly?

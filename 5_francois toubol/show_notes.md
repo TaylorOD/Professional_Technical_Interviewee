@@ -2,8 +2,9 @@
 
 ### My guest today is Francois Toubol, Chicago CTO at Livly.
 
-- Find part two of this episode here:
-- Audio only:
+Video: https://youtu.be/9tXHGonfe68​
+Part Two / Technical - https://youtu.be/FMVKzDihEo0​
+Audio only: https://professionaltechnicalintervieweewithtaylordorsett.podbean.com/e/episode-5-francois-toubol
 
 ### Guest: Francois Toubol
 - LinkedIn: https://www.linkedin.com/in/toubol/

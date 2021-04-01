@@ -18,9 +18,9 @@
 | Chris Taylor | March 4th, 2021 | Yes |
 | Karl Hughes | March 18th, 2021 | Yes |
 | Francois Toubol | April 1st, 2021 | Yes |
-| Jay Wengrow | TBD | Yes |
-| Paul Czajka | TBD | Yes |
-| Ben Wilhelm | TBD | Yes |
+| Jay Wengrow | April 15th, 2021 | Yes |
+| Paul Czajka | May 6th, 2021 | Yes |
+| Ben Wilhelm | May 20th, 2021 | Yes |
 
 ### If you enjoyed the show please subscribe, thumbs up, and share the show.
 ### Episodes released on the first and third Thursday of each month.

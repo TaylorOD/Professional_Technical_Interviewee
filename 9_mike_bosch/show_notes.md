@@ -1,13 +1,13 @@
-### Episode #8 - Ben Wilhelm - Professional Technical Interviewee with Taylor Dorsett
+### Episode #9 - Mike Bosch - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Ben Wilhelm, Staff Engineer at Screencastify, former Fullstack Academy Senior Instructor, and creator of courses and training materials specifically for bootcamp grads to help them succeed in their first job .
+### My guest today is Mike Bosch VP of Engineering at Torch, and former ServiceNow, Uptake, and Google engineer and manager.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
 ### Guest: Ben Wilhelm
-- LinkedIn: https://www.linkedin.com/in/benjaminmichaelwilhelm/
+- LinkedIn: https://www.linkedin.com/in/michaelbosch/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first and third Thursday of each month.

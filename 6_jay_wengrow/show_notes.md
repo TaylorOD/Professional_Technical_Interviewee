@@ -2,9 +2,9 @@
 
 ### My guest today is Jay Wengrow, Founder of Actualize Coding Bootcamp and Author of A Common-Sense Guide to Data Structures and Algorithms.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/po5tRjzxDNU
+- Part Two - Technical: https://youtu.be/66eYkpvXOSk
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-6-jay-wengrow
 
 ### Guest: Jay Wengrow
 - LinkedIn: https://www.linkedin.com/in/jaywengrow/

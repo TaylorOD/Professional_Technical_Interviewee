@@ -7,6 +7,8 @@ class Game
 
     player_choice = :switch #:not_switch
   end
+
+
 end
 
 class Doors
@@ -32,6 +34,7 @@ class Doors
   end
 
   def open!
+    raise (AlreadyOpen, "The door is already opened.") if self.open?
     @state = :open
     @prize
   end

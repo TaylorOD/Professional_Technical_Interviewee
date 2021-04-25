@@ -6,7 +6,7 @@
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
-### Guest: Ben Wilhelm
+### Guest: Matt Karazin
 - LinkedIn: https://www.linkedin.com/in/karazin/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.

@@ -2,9 +2,9 @@
 
 ### My guest today is Paul Czajka, Staff Software Engineer at Classkick, X-Braintree.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/cCqV3I33e4M​
+- Part Two - Technical: https://youtu.be/0-AIePau710​
+- Audio only: https://professionaltechnicalintervieweewithtaylordorsett.podbean.com/e/episode-7-paul-czajka
 
 ### Guest: Paul Czajka
 - LinkedIn: https://www.linkedin.com/in/paul-czajka-pcse/

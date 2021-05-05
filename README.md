@@ -2,7 +2,7 @@
 
 ### Podcast / Repo Intro
 
-- This is a repo for the Video and Audio Podcast "Professional Technical Interviewee" hosted by Taylor Dorsett.
+- This is a repo for the Video and Audio Podcast "Professional Technical Interviewee" hosted by Taylor Owen Dorsett.
 - Episodes released every 1st and 3rd Thursday of the month.
 - You can find the technical questions, as well as my attempts at answering them, in the attached folders.
 - Feel free to attempt your own solutions and create a PR if it is an optimal solution or a solution in another language.
@@ -12,7 +12,7 @@
 
 ### Episode List:
 | Guest | Release Date | Technical included? |
-|---------|--------|--------------|
+|-------|--------------|---------------------|
 | Alex Behrens | Feb 4th, 2021 | Yes |
 | Brad Beiermann | Feb 18th, 2021 | No |
 | Chris Taylor | March 4th, 2021 | Yes |
@@ -20,7 +20,10 @@
 | Francois Toubol | April 1st, 2021 | Yes |
 | Jay Wengrow | April 15th, 2021 | Yes |
 | Paul Czajka | May 6th, 2021 | Yes |
-| Ben Wilhelm | May 20th, 2021 | Yes |
+| Mike Bosch | May 20th, 2021 | Yes |
+| Jeff Miller | June 3rd, 2021 | Yes |
+| Matt Karazin | June 17th, 2021 | Yes |
+|-------|--------------|---------------------|
 
 ### If you enjoyed the show please subscribe, thumbs up, and share the show.
 ### Episodes released on the first and third Thursday of each month.

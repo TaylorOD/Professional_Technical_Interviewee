@@ -1,16 +1,17 @@
-### Episode #9 - Mike Bosch - Professional Technical Interviewee with Taylor Dorsett
+### Episode #8 - Mike Bosch - Professional Technical Interviewee with Taylor Dorsett
 
 ### My guest today is Mike Bosch VP of Engineering at Torch, and former ServiceNow, Uptake, and Google engineer and manager.
 
-- Video: To be posted
+- Video: https://youtu.be/ZBth_BIyxXo
 - Part Two - Technical: To be posted
-- Audio only: To be posted
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-8-mike-bosch
+
 
 ### Guest: Mike Bosch
 - LinkedIn: https://www.linkedin.com/in/michaelbosch/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
-Episodes released on the first and third Thursday of each month.
+Episodes released on most Thursdays of each month.
 
 ### Host: Taylor Dorsett
 - Email: dorsetttaylordev@gmail.com

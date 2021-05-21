@@ -1,4 +1,4 @@
-### Episode #8 - Ben Wilhelm - Professional Technical Interviewee with Taylor Dorsett
+### Episode #9 - Ben Wilhelm - Professional Technical Interviewee with Taylor Dorsett
 
 ### My guest today is Ben Wilhelm, Staff Engineer at Screencastify, former Fullstack Academy Senior Instructor, and creator of courses and training materials specifically for bootcamp grads to help them succeed in their first job .
 

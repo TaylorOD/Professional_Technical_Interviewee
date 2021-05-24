@@ -3,7 +3,7 @@
 ### My guest today is Mike Bosch VP of Engineering at Torch, and former ServiceNow, Uptake, and Google engineer and manager.
 
 - Video: https://youtu.be/ZBth_BIyxXo
-- Part Two - Technical: To be posted
+- Part Two - Technical: https://www.youtube.com/watch?v=prUEJG5UKxE
 - Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-8-mike-bosch
 
 

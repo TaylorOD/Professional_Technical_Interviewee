@@ -8,6 +8,7 @@
 
 ### Guest: Sean Wolter
 - LinkedIn: https://www.linkedin.com/in/seanwolter/
+- ActiveCampaign Careers: https://www.activecampaign.com/about/careers
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first and third Thursday of each month.

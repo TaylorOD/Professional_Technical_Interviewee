@@ -11,7 +11,7 @@
 - ActiveCampaign Careers: https://www.activecampaign.com/about/careers
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
-Episodes released on the first four Thursday's of each month.
+Episodes released on the first four Thursdays of each month.
 
 ### Host: Taylor Owen Dorsett
 - Email: dorsetttaylordev@gmail.com

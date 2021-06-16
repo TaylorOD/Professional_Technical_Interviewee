@@ -2,8 +2,9 @@
 
 ### My guest today is Karl Hughes, Chicago CTO turned Founder at Draft.dev.
 
-- Find part two of this episode here:
-- Audio only:
+- Video: https://youtu.be/Ikcc-ksoY1E
+- Part Two - Technical: https://youtu.be/ke2qflbIrHc
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-4-karl-hughes
 
 ### Guest: Karl Hughes
 - LinkedIn: https://www.linkedin.com/in/karllhughes/

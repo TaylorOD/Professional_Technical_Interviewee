@@ -2,8 +2,8 @@
 
 ### My guest today is Brad Beiermann, VP of Engineering at Everspring.
 
-- Youtube Link: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/slnFL-lOlOg
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-2-brad-beierman
 
 ### Guest: Brad Beiermann
 - LinkedIn: https://www.linkedin.com/in/bradbeiermann/

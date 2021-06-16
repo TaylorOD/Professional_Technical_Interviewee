@@ -11,7 +11,7 @@
 - Ben's website with links to his videos/courses/talks: https://benwilhelm.com/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
-Episodes released on the first four Thursday's of each month.
+Episodes released on the first four Thursdays of each month.
 ### Host: Taylor Owen Dorsett
 - Email: dorsetttaylordev@gmail.com
 - Twitter: @yodorsett

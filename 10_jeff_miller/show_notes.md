@@ -2,15 +2,15 @@
 
 ### My guest today is Jeff Miller, a Chicago engineering leader, who is currently the Senior Director of Platform Engineering at Yello.co
 
-- Video: To be posted
-- Part Two - Technical: To be posted
+- Video: https://youtu.be/6Ci_N734S2g
+- Part Two - Technical: https://youtu.be/7wUvDm67Sek
 - Audio only: To be posted
 
 ### Guest: Jeff Miller
 - LinkedIn: https://www.linkedin.com/in/jeffmiller00/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
-Episodes released on the first four Thursday's of each month.
+Episodes released on the first four Thursdays of each month.
 ### Host: Taylor Owen Dorsett
 - Email: dorsetttaylordev@gmail.com
 - Twitter: @yodorsett

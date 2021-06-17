@@ -4,7 +4,7 @@
 
 - Video: https://youtu.be/6Ci_N734S2g
 - Part Two - Technical: https://youtu.be/7wUvDm67Sek
-- Audio only: To be posted
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-10-jeff-miller
 
 ### Guest: Jeff Miller
 - LinkedIn: https://www.linkedin.com/in/jeffmiller00/

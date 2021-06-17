@@ -4,8 +4,7 @@
 
 - Video: https://youtu.be/hU2lvKOxwzE
 - Part Two - Technical: https://youtu.be/-AFXVgpoM5k
-- Audio only: To be posted
-
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-11-matt-karazin
 ### Guest: Matt Karazin
 - LinkedIn: https://www.linkedin.com/in/karazin/
 

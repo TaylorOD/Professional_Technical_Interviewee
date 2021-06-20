@@ -2,9 +2,10 @@
 
 ### My guest today is Roosevelt Anderson. Roosevelt is currently an Engineering Manager at divvyDOSE and has previously worked at Amazon, Grubhub, and Grainger.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video - Part One: To be posted
+- Video Technical - Part Two: To be posted
+- Audio only - Part One: To be posted
+- Audio only - Part Two: N/A
 
 ### Guest: Roosevelt Anderson
 - LinkedIn: https://www.linkedin.com/in/roosevelt-anderson-23960048/

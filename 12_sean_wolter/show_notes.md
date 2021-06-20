@@ -2,9 +2,10 @@
 
 ### My guest today is Sean Wolter. Sean is currently an Engineering Director at ActiveCampaign and has previously worked at Chicago companies including Belly, SpotHero, and Vokal.
 
-- Video: https://youtu.be/stMleqB9br8
-- Part Two - Technical: https://youtu.be/aGb40nlbZCc
-- Audio only: To be posted
+- Video - Part One: https://youtu.be/stMleqB9br8
+- Video Technical - Part Two: https://youtu.be/aGb40nlbZCc
+- Audio only - Part One: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-12-sean-wolter
+- Audio only - Part Two: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-12-5-sean-wolter
 
 ### Guest: Sean Wolter
 - LinkedIn: https://www.linkedin.com/in/seanwolter/

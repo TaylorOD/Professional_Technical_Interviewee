@@ -10,6 +10,7 @@
 ### Guest: Roosevelt Anderson
 - LinkedIn: https://www.linkedin.com/in/roosevelt-anderson-23960048/
 - Website: http://rooseveltanderson.com/
+- Confessions of a Black Software Engineering Manager: How I Hire: https://blog.devgenius.io/confessions-of-a-black-software-engineering-manager-how-i-hire-82bf8e98c70d?source=social.linkedin&gi=3b9dc8806040
 - divvyDOSE Careers: https://divvydose.com/careers/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.

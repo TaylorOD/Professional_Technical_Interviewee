@@ -2,8 +2,8 @@
 
 ### My guest today is Sean Wolter. Sean is currently an Engineering Director at ActiveCampaign and has previously worked at Chicago companies including Belly, SpotHero, and Vokal.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
+- Video: https://youtu.be/stMleqB9br8
+- Part Two - Technical: https://youtu.be/aGb40nlbZCc
 - Audio only: To be posted
 
 ### Guest: Sean Wolter

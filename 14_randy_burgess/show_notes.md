@@ -1,14 +1,13 @@
-### Episode #14 - Nik Patel - Professional Technical Interviewee with Taylor Dorsett
+### Episode #14 - Randy Burgess - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Nik Patel. Nik is currently the CTO and Co-founder of Cohesion. He shares about the type of skills it takes to be a software engineer at a growing start-up.
+### My guest today is Randy Burgess. Randy is currently the VP of Engineering at MPI Media Group in Kansas City. Previously he worked as an Engineering Manager at Shipwell, Hireoogy, and as a Coding Bootcamp Instructor at Northwestern University.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
-### Guest: Nik Patel
-- LinkedIn: https://www.linkedin.com/in/nik-patel-architect/
-- Cohesion Careers: https://www.cohesionib.com/careers
+### Guest: Randy Burgess
+- LinkedIn: https://www.linkedin.com/in/wrburgess/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

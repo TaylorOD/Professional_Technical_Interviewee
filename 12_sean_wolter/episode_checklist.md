@@ -8,7 +8,7 @@
 - [X] Publish/schedule tweets/linkedin post with link to Audio podcast
 - [X] Pin the Tweet to my Twitter profile.
 - [X] Publish a post on my Facebook.
-- [ ] Send guest a link to episode (all types) and ask them to share
+- [X] Send guest a link to episode (all types) and ask them to share
 
 ## WEEK AFTER:
 - [ ] Share with any relevant Slack channels/groups.

@@ -8,6 +8,7 @@
 
 ### Guest: Cornelius Jemison
 - LinkedIn: https://www.linkedin.com/in/corneliusjemison/
+- Coyote Careers Page: https://coyote.com/careers/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

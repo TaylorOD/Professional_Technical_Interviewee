@@ -1,13 +1,13 @@
-### Episode #14 - Randy Burgess - Professional Technical Interviewee with Taylor Dorsett
+### Episode #15 - Cornelius Jemison - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Randy Burgess. Randy is currently the VP of Engineering at MPI Media Group in Kansas City. Previously he worked as an Engineering Manager at Shipwell, Hireoogy, and as a Coding Bootcamp Instructor at Northwestern University.
+### My guest today is Cornelius Jemison. He's currently a Principal Data Engineer at Coyote Logistics and also consults for The Washington Post. He's previously worked in staff and architect roles at ActiveCampaign and Nielsen.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
-### Guest: Randy Burgess
-- LinkedIn: https://www.linkedin.com/in/wrburgess/
+### Guest: Cornelius Jemison
+- LinkedIn: https://www.linkedin.com/in/corneliusjemison/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

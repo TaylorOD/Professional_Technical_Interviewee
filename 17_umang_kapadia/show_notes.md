@@ -1,15 +1,15 @@
-### Episode #16 - Peter Evans - Professional Technical Interviewee with Taylor Dorsett
+### Episode #17 - Umang Kapadia - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Peter Evans. Peter is currently an Engineering Director at OppFi and was previously the CTO of BuiltIn and ActiveCampaign.
+### My guest today is Umang Kapadia. Umang is currently an the Head of DevOps at Amount. Before that he was a DevOps Engineer at Rally Health and several other companies in the Midwest.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
-### Guest: Peter Evans
-- LinkedIn: https://www.linkedin.com/in/peter-evans-4a40b0100/
-- Website: https://modul8r.com/
-- OppFi Careers: https://www.opploans.com/careers/
+### Guest: Umang Kapadia
+- LinkedIn: https://www.linkedin.com/in/umang-kapadia-491a873a/
+- Amount: https://www.amount.com/
+- Amount Careers: https://jobs.lever.co/amount
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

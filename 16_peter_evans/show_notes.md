@@ -9,7 +9,7 @@
 ### Guest: Peter Evans
 - LinkedIn: https://www.linkedin.com/in/peter-evans-4a40b0100/
 - Website: https://modul8r.com/
-- OppLoans Careers: https://www.opploans.com/careers/
+- OppFi Careers: https://www.opploans.com/careers/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

@@ -7,9 +7,11 @@
 - Audio only: To be posted
 
 ### Guest: Nik Patel
-- LinkedIn:
-- Cohesion:
-- Cohesion Careers:
+- LinkedIn: https://www.linkedin.com/in/nik-patel-architect/
+- Cohesion: https://www.cohesionib.com/
+- Cohesion Careers: https://www.cohesionib.com/careers
+
+If you are interested in a role at Cohesion please email Megan Limanni at mlimanni@cohesionib.com with the subject line, "Nik and Taylor Interviewee Podcast"
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

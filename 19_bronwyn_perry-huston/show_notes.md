@@ -1,6 +1,6 @@
 ### Episode #19 - Bronwyn Perry-Huston - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Bronwyn Perry-Huston. She is currently a technical lead at Cameo and previously she was a senior software engineer at PatientPop.
+### My guest today is Bronwyn Perry-Huston. She is currently an Engineering Manager / Technical Lead at Cameo and previously she was a Senior Software Engineer at PatientPop. We talk about her interesting path into software development and things to keep in mind while interviewing.
 
 - Video: To be posted
 - Part Two - Technical: To be posted

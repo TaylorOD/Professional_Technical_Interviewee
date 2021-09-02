@@ -2,9 +2,9 @@
 
 ### My guest today is Cornelius Jemison. He's currently a Principal Data Engineer at Coyote Logistics and also consults for The Washington Post. He's previously worked in staff and architect roles at ActiveCampaign and Nielsen.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/BwPULJy0DLA
+- Part Two - Technical: Will Add Next Week
+- Audio only: https://professionaltechnicalintervieweewithtaylordorsett.podbean.com/e/episode-15-cornelius-jemison
 
 ### Guest: Cornelius Jemison
 - LinkedIn: https://www.linkedin.com/in/corneliusjemison/

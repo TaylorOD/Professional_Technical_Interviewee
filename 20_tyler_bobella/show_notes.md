@@ -1,6 +1,6 @@
 ### Episode #20 - Tyler Bobella - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Tyler Bobella. He is the Director of Engineering at LogicGate and has been with them for many years as they have grown from a relatively small company to recently closing their $113 million Series C funding round.
+### My guest today is Tyler Bobella. He is the Director of Engineering at LogicGate. He was one of their first engineering hires and has been with them for many years as they have grown from a relatively small company to recently closing their $113 million Series C funding round.
 
 - Video: To be posted
 - Part Two - Technical: To be posted

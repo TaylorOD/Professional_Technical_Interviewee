@@ -2,9 +2,9 @@
 
 ### My guest today is Peter Evans. Peter is currently an Engineering Director at OppFi and was previously the CTO of BuiltIn and ActiveCampaign.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/G04hc-3Fe3s
+- Part Two - https://youtu.be/iH4xXvfKT-w
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-16-peter-evans
 
 ### Guest: Peter Evans
 - LinkedIn: https://www.linkedin.com/in/peter-evans-4a40b0100/

@@ -13,10 +13,7 @@
   // if it doesnt then create/add it
   // else
   // return array[index]
-
-
-// console.log(array)
-
+//
 const findDup = (inputNumbers) => {
   let map = {}
   for (let index = 0; index < inputNumbers.length; index += 1) {
@@ -29,5 +26,3 @@ const findDup = (inputNumbers) => {
 }
 
 console.log(findDup([1, 2, 3, 4, 5, 6, 1, 3]))
-
-array[1]

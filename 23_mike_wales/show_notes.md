@@ -1,6 +1,6 @@
 ### Episode #23 - Mike Wales - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Mike Wales. He is current the CTO at Moonrise, previously he was a Director at Udacity and spent many years doing technical Government contracting work after served in the Air Force.
+### My guest today is Mike Wales. He is current the CTO at Moonrise, previously he was a Director at Udacity and spent many years doing technical Government contracting work after served in the Air Force and the NSA.
 
 - Video: To be posted
 - Part Two - Technical: To be posted

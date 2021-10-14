@@ -3,8 +3,9 @@
 ### My guest today is Umang Kapadia. Umang is currently the Head of DevOps at Amount. Before that, he was a DevOps Engineer at Rally Health and several other companies in the Midwest.
 
 - Video: https://youtu.be/tl6V0xLUmxk
-- Audio only: To be posted
-- Part Two - Technical: To be posted
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-17-umang-kapadia
+- Part Two - Technical: https://youtu.be/FYsDwCXiANs
+- Audio only - Part Two: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-17.5-umang-kapadia
 
 ### Guest: Umang Kapadia
 - LinkedIn: https://www.linkedin.com/in/umang-kapadia-491a873a/

@@ -1,6 +1,5 @@
 ## BEFORE:
 - [ ] Intro Recorded
-- [ ] Post teaser week before announcing the guest and sending video link
 - [ ] Create reminders to do these posts on calendar
 - [ ] Add show notes on Youtube and Podbean
 
@@ -13,7 +12,7 @@
 
 ## WEEK AFTER:
 - [ ] Share with any relevant Slack channels/groups.
-- [ ] Add links to the post from any relevant posts on your personal or company blog.
+- [ ] Post teaser/clip week after
 
 ## MONTH/s AFTER:
 - [ ] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.

@@ -1,3 +1,4 @@
+// https://gist.github.com/jmmastey/f50b756289f10e8c237831b47d1e6e4d
 
 // create function takes in array
   // Create score variable

@@ -2,9 +2,9 @@
 
 ### My guest today is Bronwyn Perry-Huston. She is currently an Engineering Manager / Technical Lead at Cameo and previously she was a Senior Software Engineer at PatientPop. We talk about her interesting path into software development and things to keep in mind while interviewing.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/1qirr78JalU
+- Part Two - Technical: https://youtu.be/kIt0tmn-OxU
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-19-bronwyn-perry-huston
 
 ### Guest: Bronwyn Perry-Huston
 - LinkedIn: https://www.linkedin.com/in/bronwyn-perry-huston/

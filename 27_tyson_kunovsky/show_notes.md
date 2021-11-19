@@ -1,13 +1,13 @@
-### Episode #26 - Joe Mastey - Professional Technical Interviewee with Taylor Dorsett
+### Episode #27 - Tyson Kunovsky - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Joe Mastey. He is currently a Lead Developer at Home Chef. Previously he was an engineering manager, senior manager, and manager of Internal Learning at Enova. He also has spoken at many conferences and has consulted with companies on how to build better onboarding and apprenticeship programs.
+### My guest today is Tyson Kunovsky. He is currently the CEO and co-founder of AutoCloud. Previously he was an CTO, Principal, and senior engineer at a number of consulting companies like Inspire11, Lambda, and Slalom.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
 - Audio only: To be posted
 
-### Guest: Joe Mastey
-- LinkedIn: https://www.linkedin.com/in/jmmastey/
+### Guest: Tyson Kunovsky
+- LinkedIn: https://www.linkedin.com/in/tkunovsky/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

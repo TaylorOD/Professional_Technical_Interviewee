@@ -2,10 +2,11 @@
 
 ### My guest today is Patrick Miller. Currently he is a Staff Software Engineer at Balto and previously he was an Engineering Manager at Uptake and NCSA as well as a Director of Engineering at Rocketmiles.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+Video: https://youtu.be/rF2zqsSWqCI
+Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/
+episode-22-patrick-miller
 
+Part Two - Technical: https://youtu.be/GQEG1yfZKd4
 ### Guest: Patrick Miller
 - LinkedIn: https://www.linkedin.com/in/patrick-miller-08b52b63/
 - Balto: https://www.balto.ai/

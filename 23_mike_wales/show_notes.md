@@ -2,9 +2,11 @@
 
 ### My guest today is Mike Wales. He is current the CTO at Moonrise, previously he was a Director at Udacity and spent many years doing technical Government contracting work after served in the Air Force and the NSA.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+- Video: https://youtu.be/oT8Lx1fhyMQ
+- Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/
+episode-23-mike-wales
+
+- Part Two - Technical: TBA
 
 ### Guest: Mike Wales
 - LinkedIn: https://www.linkedin.com/in/michaelwales/

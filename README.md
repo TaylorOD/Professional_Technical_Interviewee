@@ -10,21 +10,6 @@
 ### Technology stack:
 - I do all my technical interviews in JavaScript. Feel free to attempt the questions in another language.
 
-### Episode List:
-| Guest | Release Date | Technical included? |
-|-------|--------------|---------------------|
-| Alex Behrens | Feb 4th, 2021 | Yes |
-| Brad Beiermann | Feb 18th, 2021 | No |
-| Chris Taylor | March 4th, 2021 | Yes |
-| Karl Hughes | March 18th, 2021 | Yes |
-| Francois Toubol | April 1st, 2021 | Yes |
-| Jay Wengrow | April 15th, 2021 | Yes |
-| Paul Czajka | May 6th, 2021 | Yes |
-| Mike Bosch | May 20th, 2021 | Yes |
-| Jeff Miller | June 3rd, 2021 | Yes |
-| Matt Karazin | June 17th, 2021 | Yes |
-|-------|--------------|---------------------|
-
 ### If you enjoyed the show please subscribe, thumbs up, and share the show.
 ### Episodes released on the first and third Thursday of each month.
 

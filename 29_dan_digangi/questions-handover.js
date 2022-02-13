@@ -1,37 +1,12 @@
 // Give an array of numbers, find the missing numbers bound by its lowest and highest number as a comma delimited list
 // Swap to length of the array over low/high bounds
 // Write a test that validates the output for each iteration without changing the test
-
 // Example: [1, 3, 5]
 // Output: 2,4
 
-// e2: [1, 3]
-// O: 2
+let numbers = [4, 7, 8, 11];
 
-// e3: []
-// O: []
-
-
-
-// let numbers = [4, 7, 9, 8, 11]
-
-// const returnMissing = (numbers) => {
-//   let results = []
-//   numbers.sort(function (a, b) {
-//     return a - b
-//   })
-//   for (let index = numbers[0]; index < numbers[numbers.length - 1]; index += 1) {
-//     if (!numbers[index]) {
-//       results.push(index)
-//     }
-//   }
-//   return results
-// }
-
-// console.log(returnMissing(numbers))
-
-
-
+///////
 
 // A services team provides an API that returns a set of Salesforce records. The UI calls for cleaning the data to proper English formatting and displaying under certain criteria.
 // Output an array with the names combined and cleaned for each user that likes Javascript (which is everyone of course) and is or over the age 21.
@@ -46,21 +21,21 @@ const sfUsers = [
         likes: ['snowboarding', '', 'workout', 'javascript'],
     },
     {
-        fname: 'johnny Adam2',
+        fname: 'johnny Adam',
         lname: ' Rogers',
         age: 21,
         likes: ['art', 'rainbows', 'javascript'],
     },
     {
-        fname: 'johnny Adam2',
+        fname: 'johnny Adam',
         lname: ' Rogers',
         age: 21,
         likes: ['art', 'javascript'],
     },
     {
-        fname: 'johnny Adam1',
+        fname: 'johnny Adam',
         lname: ' Rogers',
-        age: 12,
+        age: '12',
         likes: [null, 'fortnight', 'grilled cheese', 'javascript', 'sweaters'],
     },
     {
@@ -70,18 +45,20 @@ const sfUsers = [
         likes: ['corvettes', 'snowboarding'],
     },
 ];
-// Return 21 or over first names sorted by age
-const firstNames = (inputData) => {
-  let results = []
-  inputData.sort(function (a, b) {
-    return a.age-b.age
-  })
-  inputData.forEach( person => {
-    if (person.age >= 21) {
-      results.push(person.age)
-    }
-  })
-  return results
-}
 
-console.log(firstNames(sfUsers))
+///////
+
+// Given 0 to N integers, create an function that infinitely sums its args
+console.log(sum(1, 4)); // Expected Outcome: 5
+console.log(sum(2, 3, 1, 1)); // Expected Outcome: 7
+console.log(sum(2, 2, 1, 1)); // Expected Outcome: 6
+
+///////
+
+// Why does this code not work as expected? Fix it without changing the original element query.
+// If the documentation didn't exist, how could you figure what types methods are available to this type?
+const els = document.querySelectorAll('key');
+
+els.map((el, index) => {
+    console.log(el);
+});

@@ -2,9 +2,8 @@
 
 ### My guest today is Veronica Buitron. She is the CEO/Co Founder of TangoCode which is an web and mobile agency based in Chicago. Before that she was the Owner/Founder of GeneXus for many years.
 
-- Video: To be posted
-- Part Two - Technical: To be posted
-- Audio only: To be posted
+Video: https://youtu.be/c-vHFaRilvU
+Audio only: https://ProfessionalTechnicalIntervieweewithTaylorDorsett.podbean.com/e/episode-24-veronica-buitron
 
 ### Guest: Veronica Buitron
 - LinkedIn: https://www.linkedin.com/in/veronica-buitron-64a68017/

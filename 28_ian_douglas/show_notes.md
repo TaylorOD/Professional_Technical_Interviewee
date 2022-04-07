@@ -4,7 +4,13 @@
 
 - Video: To be posted
 - Part Two - Technical: To be posted
+
 - Audio only: To be posted
+- Part Two - Technical - Audio only: To be posted
+
+
+Spotify - https://open.spotify.com/show/7zvt9QZWMUGsQ27NM8XuMd?si=272649053fbf4c03
+Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-interviewee-with-taylor-dorsett/id1557937961
 
 ### Guest: Ian Douglas
 - LinkedIn: https://www.linkedin.com/in/iandouglas736/

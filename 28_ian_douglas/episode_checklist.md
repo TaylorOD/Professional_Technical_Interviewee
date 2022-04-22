@@ -1,13 +1,13 @@
 ## BEFORE:
 - [ ] Add show notes on Youtube and Podbean
 ## DAY OF:
-- [ ] Publish/schedule tweets/linkedin post with link to Video podcast
-- [ ] Publish/schedule tweets/linkedin post with link to Audio podcast
-- [ ] Pin the Tweet to my Twitter profile.
-- [ ] Publish a post on my Facebook.
-- [ ] Send guest a link to episode (all types) and ask them to share
+- [X] Publish/schedule tweets/linkedin post with link to Video podcast
+- [X] Publish/schedule tweets/linkedin post with link to Audio podcast
+- [X] Pin the Tweet to my Twitter profile.
+- [X] Publish a post on my Facebook.
+- [X] Send guest a link to episode (all types) and ask them to share
 ## MONTH/s AFTER:
-- [ ] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.
+- [X] Schedule one tweet/LinkedIn post per month promoting the post for the next three months.
 ## OPTIONAL:
 - [ ] Share with your personal/company newsletter.
 - [ ] Share the post as a link on any relevant subreddits/slack groups.

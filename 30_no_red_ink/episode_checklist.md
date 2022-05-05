@@ -1,7 +1,5 @@
 ## BEFORE:
-- [ ] Intro Recorded
-- [ ] Create reminders to do these posts on calendar
-- [ ] Add show notes on Youtube and Podbean
+- [ ] Add show notes to github
 
 ## DAY OF:
 - [ ] Publish/schedule tweets/linkedin post with link to Video podcast

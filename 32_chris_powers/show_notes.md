@@ -1,6 +1,6 @@
-### Episode #31 - Arne Saupe - Professional Technical Interviewee with Taylor Dorsett
+### Episode #32 - Chris Powers - Professional Technical Interviewee with Taylor Dorsett
 
-### My guest today is Arne Saupe, VP of Technology at Farmers Fridge. Arne has helped Farmers Fridge scale their engineering team and previously helped Trunk Club scale their team as their Chicago Director of Engineering.
+### My guest today is Chris Powers who is currently the Director of Engineering at Chegg (Thinkful), before that he was Director of Engineering and Engineering Manager at Sprout Social and Groupon. Chris also regularly speak at technical conferences.
 
 - Video: To be posted
 - Part Two - Technical: To be posted
@@ -12,10 +12,10 @@
 Spotify - https://open.spotify.com/show/7zvt9QZWMUGsQ27NM8XuMd?si=272649053fbf4c03
 Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-interviewee-with-taylor-dorsett/id1557937961
 
-### Guests: Arne Saupe
-- LinkedIn: https://www.linkedin.com/in/arnesaupe/
+### Guests: Chris Powers
+- LinkedIn: https://www.linkedin.com/in/chris-powers-b415a4122/
 
-- Website: https://www.farmersfridge.com/
+- Website: https://www.chegg.com/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

@@ -1,4 +1,4 @@
-### Episode #30 - Arne Saupe - Professional Technical Interviewee with Taylor Dorsett
+### Episode #31 - Arne Saupe - Professional Technical Interviewee with Taylor Dorsett
 
 ### My guest today is Arne Saupe, VP of Technology at Farmers Fridge. Arne has helped Farmers Fridge scale their engineering team and previously helped Trunk Club scale their team as their Chicago Director of Engineering.
 

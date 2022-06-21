@@ -1,5 +1,5 @@
 ## BEFORE:
-- [ ] Add show notes to github
+- [X] Add show notes to github
 
 ## DAY OF:
 - [ ] Publish/schedule tweets/linkedin post with link to Video podcast

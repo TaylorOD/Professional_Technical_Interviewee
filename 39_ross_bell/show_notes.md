@@ -15,6 +15,7 @@ Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-in
 - LinkedIn: https://www.linkedin.com/in/rossallenbell/
 
 - Website: https://www.elastic.co/
+- Elastic Careers: https://www.elastic.co/about/careers/
 
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.

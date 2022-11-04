@@ -14,6 +14,7 @@ Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-in
 ### Guests: Rebecca Bailey
 
 - LinkedIn: https://www.linkedin.com/in/beccamakesthings/
+- Blog: https://beccabailey.substack.com/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

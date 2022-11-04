@@ -1,6 +1,6 @@
-### Episode #41 - Matt Wilson - Professional Technical Interviewee with Taylor Dorsett
+### Episode #41 - LaunchPad Lab - Professional Technical Interviewee with Taylor Dorsett
 
-### Matt is an engineering manager in the Chicago land area. Most recently he's worked at Farmers Fridge as the Manager of Platform Engineering and he was with ShopperTrak for many years before that.
+### LaunchPad Lab is a consulting companies based in Chicago that primarily focused on Ruby on Rails, React, and Salesforce work. Brendan Hennessy (Co-Founder and CTO) and Conor Hawes (Engineering Manager) are both coding bootcamp graduates and have been with LaunchPad Lab for many years.
 
 - Video: To be posted
 - Part Two: To be posted
@@ -11,9 +11,13 @@ Spotify - https://open.spotify.com/show/7zvt9QZWMUGsQ27NM8XuMd?si=272649053fbf4c
 
 Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-interviewee-with-taylor-dorsett/id1557937961
 
-### Guests: Matt Wilson
+### Guests: Brendan Hennessy & Conor Hawes
 
-- LinkedIn: https://www.linkedin.com/in/matt-wilson-5b598941/
+- LinkedIn (Brendan): https://www.linkedin.com/in/brendanjhennessy/
+- LinkedIn (Conor): https://www.linkedin.com/in/conorhawes/
+
+- Website: https://launchpadlab.com/
+- Careers: https://launchpadlab.com/careers/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

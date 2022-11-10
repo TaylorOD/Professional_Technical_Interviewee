@@ -22,7 +22,6 @@ Episodes released on the first four Thursdays of each month.
 ### Host: Taylor Owen Dorsett
 
 - Email: dorsetttaylordev@gmail.com
-- Twitter: https://twitter.com/yodorsett
 - LinkedIn: https://www.linkedin.com/in/taylordorsett/
 - Github: https://github.com/TaylorOD
 - Youtube: https://www.youtube.com/c/TaylorDorsett

@@ -1,6 +1,6 @@
-### Episode #44 - Chris Love - Professional Technical Interviewee with Taylor Dorsett
+### Episode #45 - John Dugaw - Professional Technical Interviewee with Taylor Dorsett
 
-### Chris is the Managing Partner at LionKube which focuses on FinOps and DevOps and Kubernetes work. Chris is also a published author of Core Kubernetes.
+### John is the Principal Architect at LionKube which focuses on FinOps and DevOps and Kubernetes work. John has previously worked Walgreens, Amazon, and T-Mobile in engineering leader roles. He is also a voice over artist.
 
 - Video: To be posted
 - Part Two: To be posted
@@ -11,9 +11,9 @@ Spotify - https://open.spotify.com/show/7zvt9QZWMUGsQ27NM8XuMd?si=272649053fbf4c
 
 Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-interviewee-with-taylor-dorsett/id1557937961
 
-### Guests: Chris Love
+### Guests: John Dugaw
 
-- LinkedIn: https://www.linkedin.com/in/chrislovecnm/
+- LinkedIn: https://www.linkedin.com/in/john-dugaw-b287021/
 - Website: https://lionkube.com/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.

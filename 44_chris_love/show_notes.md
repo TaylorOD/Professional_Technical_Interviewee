@@ -14,7 +14,7 @@ Apple Podcasts - https://podcasts.apple.com/us/podcast/professional-technical-in
 ### Guests: Chris Love
 
 - LinkedIn: https://www.linkedin.com/in/chrislovecnm/
-- Blog: https://lionkube.com/
+- Website: https://lionkube.com/
 
 If you enjoyed the show please subscribe, thumbs up, and share the show.
 Episodes released on the first four Thursdays of each month.

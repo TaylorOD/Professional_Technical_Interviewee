@@ -1,31 +1,24 @@
-## Professional Technical Interviewee:
+# Professional Technical Interviewee
 
-### Podcast / Repo Intro
+This is the code from my podcast, Professional Technical Interviewee with Taylor Dorsett. It was a video and audio show where I talked with engineers and engineering leaders, then we worked through a technical interview question together.
 
-- This is a repo for the Video and Audio Podcast "Professional Technical Interviewee" hosted by Taylor Owen Dorsett.
-- Episodes released every 1st and 3rd Thursday of the month.
-- You can find the technical questions, as well as my attempts at answering them, in the attached folders.
-- Feel free to attempt your own solutions and create a PR if it is an optimal solution or a solution in another language.
+The show ran from December 2020 to March 2023. The final episode, Episode #46, came out on March 16, 2023. There are no new episodes, but everything is still up.
 
-### Technology stack:
-- I do all my technical interviews in JavaScript. Feel free to attempt the questions in another language.
+## What's here
 
-### If you enjoyed the show please subscribe, thumbs up, and share the show.
-### Episodes released on the first and third Thursday of each month.
+Each guest has a folder, numbered by episode, like `45_john_dugaw`. Inside are the show notes, the question we worked on and my attempt at answering it. I did all of them in JavaScript.
 
-### Host: Taylor Dorsett
-- Email: dorsetttaylordev@gmail.com
-- Twitter: https://twitter.com/yodorsett
-- LinkedIn: https://www.linkedin.com/in/taylordorsett/
-- Github: https://github.com/TaylorOD
-- Youtube: https://www.youtube.com/c/taylordorsett
+Feel free to try the questions yourself in whatever language you like.
 
-### Editor: Dustin Bays
-- Email: dustin.bays@baysbrass.com
-- Twitter/Instagram: @Bays4Bays
+## Watch or listen
 
-### Interested?
-- If you'd like to be on the show or know someone who would be please reach out!
+* [YouTube](https://www.youtube.com/c/taylordorsett)
+* [Spotify](https://open.spotify.com/show/7zvt9QZWMUGsQ27NM8XuMd)
+* [Podbean](https://professionaltechnicalintervieweewithtaylordorsett.podbean.com/)
+* [Apple Podcasts](https://podcasts.apple.com/us/podcast/professional-technical-interviewee-with-taylor-dorsett/id1557937961)
 
-### Contact
-- dorsetttaylordev@gmail.com
+## Thanks
+
+Thanks to every guest who came on, and to Dustin Bays for editing the show.
+
+Hosted by [Taylor Dorsett](https://www.taylordorsett.com/). You can also find me on [LinkedIn](https://www.linkedin.com/in/taylordorsett/).
